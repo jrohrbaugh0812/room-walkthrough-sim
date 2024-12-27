@@ -1,0 +1,16 @@
+# ninja log v5
+13	229	7570139278117378	CMakeFiles/house.dir/common/tangentspace.cpp.obj	6102365f4d795bc1
+10	349	7570139279297504	CMakeFiles/house.dir/common/objloader.cpp.obj	fe6c596dc7935c4d
+7	495	7570139280783639	CMakeFiles/house.dir/common/utils.cpp.obj	bfd2bf80ac4f164
+3	464	7570140332608737	CMakeFiles/house.dir/house.cpp.obj	d5224bfdb664513d
+8	490	7570148700049826	build.ninja	3e46dfb0f7aec82f
+21	380	7570143314959184	CMakeFiles/RoomWalkthroughSim.dir/common/tangentspace.cpp.obj	c5c085afbc620066
+16	475	7570143315904763	CMakeFiles/RoomWalkthroughSim.dir/common/objloader.cpp.obj	a8362478a24692d1
+9	663	7570143317801979	CMakeFiles/RoomWalkthroughSim.dir/common/utils.cpp.obj	b4e47fd335200c06
+3	598	7570144183222765	CMakeFiles/RoomWalkthroughSim.dir/main.cpp.obj	b654bc012c652312
+3	465	7570148297834234	C:/Users/rohrb/Documents/Projects/RoomWalkthroughSim/bin/RoomWalkthroughSim.exe	3baf747686a49a58
+37	602	7570148912673894	CMakeFiles/main.dir/common/tangentspace.cpp.obj	6487d3f23f0b1e25
+29	820	7570148914860922	CMakeFiles/main.dir/common/objloader.cpp.obj	14655c6472a9321d
+20	1100	7570148917674686	CMakeFiles/main.dir/common/utils.cpp.obj	26970d793a96c608
+10	1304	7570148919674799	CMakeFiles/main.dir/main.cpp.obj	d834428135e98aeb
+1305	1763	7570148924054337	C:/Users/rohrb/Documents/Projects/RoomWalkthroughSim/bin/main.exe	7c37c3a5d0c9e82e
