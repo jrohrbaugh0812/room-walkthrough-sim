@@ -18,7 +18,7 @@ For Windows users, you can use WSL, MinGW, or Visual Studio. These instructions 
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/jrohrbaugh0812/room-walkthrough-sim.git```
+git clone https://github.com/jrohrbaugh0812/room-walkthrough-sim.git
 ```
 
 ### Set Up Development Environment
