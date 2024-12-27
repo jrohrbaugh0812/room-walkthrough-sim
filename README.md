@@ -1,5 +1,5 @@
 # RoomWalkthroughSim - 3D Room
-RoomWalkthroughSim is a 3D simulation program that allows users to explore, visualize, and interact with a virtual room environment. Users can navigate through the room, adjust the layout, and interact with various objects in the space. This program was built using modern graphics programming techniques and tools.
+RoomWalkthroughSim is a 3D program that allows users to explore, visualize, and interact with a virtual room environment. Users can navigate through the room, adjust the layout, and interact with various objects in the space. This program was built using modern graphics programming techniques and tools.
 
 ## Prerequisites
 The following setup instructions are for Windows.
